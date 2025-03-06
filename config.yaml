@@ -1,0 +1,20 @@
+- 1.1.14+202503021717
+- _NAME: MX Mechanical Mini
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, dpi, dpi_extended, speed-change, backlight_level, backlight_duration_hands_out,
+    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, rgb_control, rgb_zone_, brightness_control, per-key-lighting,
+    reprogrammable-keys, persistent-remappable-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert,
+    gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4100
+  _modelId: B36700000000
+  _sensitive: {divert-keys: false}
+  _serial: 70C8E478
+  _unitId: 70C8E478
+  _wpid: B367
+  backlight: 0
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {212: 1, 226: 0, 227: 0, 231: 0, 232: 0, 233: 0, 259: 1, 264: 1, 266: 1, 267: 0, 268: 0, 269: 0, 270: 0, 271: 0, 272: 0, 273: 0, 274: 0,
+    277: 0, 279: 0, 280: 0, 281: 0, 282: 0, 283: 0, 284: 1, 286: 0, 316: 0, 321: 0}
+  fn-swap: true
+  multiplatform: 0
