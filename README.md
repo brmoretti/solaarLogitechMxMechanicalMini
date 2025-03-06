@@ -23,17 +23,19 @@
 - Google Chrome (`google-chrome-stable`) - You can change the browser on the `rules.yaml` or solaar GUI
 - GNOME Characters (`gnome-characters`) - Can be modified either
 
+### 🛠️ Installation
+
 1. Backup existing config (if any)
 ```bash
 mv ~/.config/solaar ~/.config/solaar.bak
 ```
 
-# 2. Clone this configuration
+2. Clone this configuration
 ```bash
 git clone https://github.com/brmoretti/solaarLogitechMxMechanicalMini.git ~/.config/solaar
 ```
 
-# 3. Restart Solaar
+3. Restart Solaar
 
 ## 📄 License
 This configuration is released under MIT License.
