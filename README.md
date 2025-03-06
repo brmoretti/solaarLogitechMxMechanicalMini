@@ -1,7 +1,7 @@
 # 🖥️ Logitech MX Mechanical Mini Configuration for Solaar
 
-**Custom key mappings and Solaar configuration files optimized for Linux workflows**  
-*Tested on Linux Mint · Chrome/Flux AI Integration · Emoji Support · Multi-Device Management*
+**Custom key mappings and Solaar configuration files**  
+*Tested on Linux Mint · Chrome/Flux AI Integration · Emoji Support*
 
 [![Linux Compatible](https://img.shields.io/badge/Linux-Compatible-brightgreen)](https://github.com/pwr-Solaar/Solaar)
 [![Tested on Mint](https://img.shields.io/badge/Tested%20on-Linux%20Mint%2021.3-9cf)](https://linuxmint.com)
@@ -12,7 +12,7 @@
   - `Voice Dictation Button` ➔ DeepSeek
   - `Emoji Key` ➔ GNOME Characters picker
   - `Screnshot` ➔ Working
-  - `Mute Micropho` ➔ Working
+  - `Mute Microphone` ➔ Working
   - `Browse Key` ➔ Google Search on Google Chrome
 
 
@@ -20,15 +20,21 @@
 
 ### Prerequisites
 - [Solaar](https://github.com/pwr-Solaar/Solaar)
-- Git
 - Google Chrome (`google-chrome-stable`) - You can change the browser on the `rules.yaml` or solaar GUI
-- GNOME Characters (`gnome-characters`)
+- GNOME Characters (`gnome-characters`) - Can be modified either
 
+1. Backup existing config (if any)
 ```bash
-# 1. Backup existing config (if any)
 mv ~/.config/solaar ~/.config/solaar.bak
+```
 
 # 2. Clone this configuration
+```bash
 git clone https://github.com/brmoretti/solaarLogitechMxMechanicalMini.git ~/.config/solaar
+```
 
 # 3. Restart Solaar
+
+## 📄 License
+This configuration is released under MIT License.
+*Not affiliated with Logitech or Solaar development team.*
